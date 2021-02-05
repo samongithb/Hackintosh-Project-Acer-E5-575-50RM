@@ -18,8 +18,8 @@ Important ones are:
 **Post Installation Guide**
 * Dont bother fixing imessages and facetime. Every apple services except these works.
 * Wifi and bluetooth(not in my case) does not work. So buy a wifi dongle separately. I recommend TP LINK WIFI Dongle as it is very compatible with mac.
-  *TP Link officially does not support wifi drivers from mac 10.14+ so use this [BIG SUR OC WIFI ADAPTER](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)
-*for fixing the audio distortion and muffleness follow this [link](https://github.com/hackintosh-stuff/ComboJack)
+  -TP Link officially does not support wifi drivers from mac 10.14+ so use this [BIG SUR OC WIFI ADAPTER](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) 
+* for fixing the audio distortion and muffleness follow this [link](https://github.com/hackintosh-stuff/ComboJack)
 
 **Error and fixing**
 Please report any issues/things missing or possible improvements to the guide and I will try my best to fix them ASAP.
