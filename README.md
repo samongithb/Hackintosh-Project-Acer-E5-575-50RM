@@ -6,6 +6,7 @@
 3. Realtek ALC 255 (layout id: 3)
 4. I2C touchpad with native apple gestures supported (Enable "Advanced" in touchpad section in BIOS).
 
+Download the EFI files. Everything will remain the same just update your kext files and replace them in /OC/Kexts.
 As I am not sure how long I will maintain this repo so do update all your kexts.
 Important ones are:
 * [Lilu](https://github.com/acidanthera/Lilu)
