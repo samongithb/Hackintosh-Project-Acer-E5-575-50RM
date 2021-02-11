@@ -75,6 +75,7 @@
   * In _In SystemUUID_ add _SmUUID_ value
   * In _MLB_ add _Board Serial_ Value
 * Save the Config.plist file  
+* To check if something is missing head over to [sanity checker](https://opencore.slowgeek.com)
 * Your EFI file is ready, now if you have followed the guide carefully then you must have your MacOS ready to install. 
 **IMPORTANT: YOU NEED TO CLEAN FLASH THE MAC OS i.e. YOU NEED TO FORMAT YOUR SSD/HDD WHILE INSTALLING MAC OS SO MAKE SURE YOU HAVE BACKED UP YOUR FILES**
 
