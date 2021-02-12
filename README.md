@@ -8,6 +8,7 @@
 2. IGPU: Intel UHD 620 (No dedicated 2GB Nvidia 940mx available in this variant)
 3. Realtek ALC 255 (layout id: 3)
 4. I2C touchpad with native apple gestures supported (Enable "Advanced" in touchpad section in BIOS).
+5. Audio: Realtek ALC 255 with layout id: 3
 
 **Step 1: Downloading MAC OS BIG SUR**
 * Follow this [Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos) to download the MacOS, follow that guide only upto downloading part. For setting up of EFI files refer to this guide.
