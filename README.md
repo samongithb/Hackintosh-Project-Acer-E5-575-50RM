@@ -5,9 +5,10 @@
 
 **Specs**
 1. Intel i5-7200U(kabylake)
-2. IGPU: Intel UHD 620 (No dedicated 2GB Nvidia 940mx available in this variant)
-3. Audio: Realtek ALC 255 (layout id: 3)
-4. I2C touchpad with native apple gestures supported (Enable "Advanced" in touchpad section in BIOS).
+2. RAM: 8 GB(Single stick)
+3. IGPU: Intel UHD 620 (No dedicated 2GB Nvidia 940mx available in this variant)
+4. Audio: Realtek ALC 255 (layout id: 3)
+5. I2C touchpad with native apple gestures supported (Enable "Advanced" in touchpad section in BIOS).
 
 **Step 1: Downloading MAC OS BIG SUR**
 * Follow this [Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos) to download the MacOS, follow that guide only upto downloading part. For setting up of EFI files refer to this guide.
